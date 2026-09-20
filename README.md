@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LifeLoop — Your Life, In Receipts
 
 LifeLoop is a frontend-only React + Vite experience for turning fictional digital-life receipts into an interactive story: raw data -> insights -> connections -> story.
@@ -64,3 +65,7 @@ The included dataset is development data, not the organizer's final file. The vi
 ## Verification
 
 The current build has been checked with `npm install`, `npm run build`, and browser interaction checks covering navigation, search, combined date/location filters, Timeline rendering, receipt details, related moments, Surprise Me, Escape-to-close, local image loading, animated modal transforms, and mobile navigation.
+=======
+# lifeloop
+LifeLoop is an interactive frontend-only digital life explorer that transforms Spotify listening history into timelines, insights, connections, and personal stories.
+>>>>>>> d2cc48de72858f243d6851a040dd5261789e6714
